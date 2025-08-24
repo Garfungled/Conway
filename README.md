@@ -54,7 +54,7 @@ Here is the fairly simple flowchart of this program. Only the essentials are sho
 
 ![flow chart](images/ConwayFlow.png)
 
-## 5. Future TODO's
+## 5. TODO's
 
 - Add a way to import online Conway templates
 - Add colors for how long a cell has been alive
