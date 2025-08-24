@@ -49,6 +49,9 @@ R: Refreshes the board \
 C: Clear the board \
 Left Mouse Click: Turns a cell on/off
 
+### Customization
+Edit the window width/height, cell size/padding/color, background color, and font size/color in `main.h` (the variable names are self explanatory).
+
 ## 4. Diagram 
 Here is the fairly simple flowchart of this program. Only the essentials are shown or else the flow chart would get to large and needlessly complicated.
 
